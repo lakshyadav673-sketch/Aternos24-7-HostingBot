@@ -1,12 +1,12 @@
 {
-  "name": "AFK Bot",
+  "name": "BOTVA",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "BOTVA",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
+    "ip": "delhi-608053.indernos.in",
     "port": 25565,
     "version": "",
     "try-creative": false
